@@ -1,0 +1,1 @@
+Start with 00_bag_of_words.R after scraping articles using mmwr.scrape.R
